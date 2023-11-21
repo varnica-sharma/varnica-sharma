@@ -1,3 +1,4 @@
+![logo](Modern Minimalist Simple Technology Banner.png)
 <h1 align="center">Hi 👋, I'm Varnica Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
